@@ -16,5 +16,8 @@ I am not sure if there is a better way to put a clarification on the cbw repo, b
 
 # CARPENTRIES
 - **INR_2024_Recreate_Carpentries** = A work-in-progress recreation of the INR 2024 workshop, in the Carpentries (w/R) template
-- **carp-w-o-R-test** = A cloned Carpentries w/o R (md files only) templat
+- **carp-w-o-R-test** = A cloned Carpentries w/o R (md files only) template
 - **sandpaper-docs** = This is a cloned Carpentries workshop. The workhop explains how Sandpaper, one of the heavy-lifiting packages in the background of Carpentries templates, work.
+
+# JUPYTER BOOK
+- **jb-intro-test-book** = testing the jupyter book template: result of following the beginner tutorial + testing things found in the docs
