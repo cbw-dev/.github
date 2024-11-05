@@ -1,6 +1,6 @@
 # README.md
 
-I am not sure if there is a better way to put a clarification on the cbw repo, but here is some sort of explanation.
+I am not sure if there is a better way to put a clarification on the cbw-dev repo, but here is some sort of explanation.
 
 - **.github** = holds this README.md
 - **cbw-dev.github.io** = has the index.md file for the main website [https://cbw-dev.github.io/](https://cbw-dev.github.io/)
