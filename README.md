@@ -7,12 +7,13 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 - **demo-repository** = some sort of default repo I tihnk github made when we made the organization
 
 # BOOKDOWN GITBOOK
+*Note: GitBook is it's own thing, this is bookdown's version/inspired by GitBook*
 
 - **INR-2024-Recreate** = Recreating INR 2024 workshop, in the Bookdown Gitbook template (90% done, see it's README.md for notes)
 - **bookdown-tes**t = Slightly edited (barely anything) standard bookdown gitbook template
 - **fig-bkdn-test** = Unedited (I strongly think so) standard bookdown gitbook template (made to test a bug)
 - **bkd-gitbk-htmlbug** = Pretty much unedited standard bookdown gitbook template (made to test a bug)
-- **bookdown** = a copy of the "bookdown-demo", it is most likely a bs4_book (which we probably will not use, mainly because gitbook looks nicer)
+- **bookdown** = a copy of the "bookdown-demo", it is a bs4_book (which we probably will not use, mainly because gitbook looks nicer)
 
 # CARPENTRIES
 - **INR_2024_Recreate_Carpentries** = A work-in-progress recreation of the INR 2024 workshop, in the Carpentries (w/R) template
