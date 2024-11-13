@@ -28,3 +28,4 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 
 # DOCUSAURUS
 - **docusaurus-sample** = deployed docusaurus website intro tutorial
+- **docusaurus-POC** = Docusarus POC (instead of total INR 2024 Recreate) - IN THE WORKS
