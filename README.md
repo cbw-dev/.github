@@ -25,3 +25,6 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 # JUPYTER BOOK
 - **jb-intro-test-book** = testing the jupyter book template: result of following the beginner tutorial + testing things found in the docs
 - **INR-2024-Recreate-JB** = A really simple Jupyer Book version of INR 2024, mainly a Proof of Concept
+
+# DOCUSAURUS
+- **docusaurus-sample** = deployed docusaurus website intro tutorial
