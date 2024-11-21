@@ -21,7 +21,6 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 - **sandpaper-docs** = This is a cloned Carpentries workshop. The workhop explains how Sandpaper, one of the heavy-lifiting packages in the background of Carpentries templates, work.
 - **carpentries-varnish-fork** = A fork of [carpentries varnish](https://github.com/carpentries/varnish) repo, which I added the bioinformatics.ca logo to, so that we can change the logo on our other Carpentry workshop template repos 
 
-
 # JUPYTER BOOK
 - **jb-intro-test-book** = testing the jupyter book template: result of following the beginner tutorial + testing things found in the docs
 - **INR-2024-Recreate-JB** = A really simple Jupyer Book version of INR 2024, mainly a Proof of Concept
@@ -29,3 +28,7 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 # DOCUSAURUS
 - **docusaurus-sample** = deployed docusaurus website intro tutorial
 - **docusaurus-POC** = Docusarus POC (instead of total INR 2024 Recreate) - IN THE WORKS
+
+# QUARTO
+- **quarto-demo** = following the intro docs to creating a quarto website - very simple, some bioinformatics.ca customization
+- **quarto-POC** = Quarto POC (instead of total INR 2024 Recreate) - IN THE WORKS
