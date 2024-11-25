@@ -7,8 +7,14 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 - **demo-repository** = some sort of default repo I tihnk github made when we made the organization
 
 # TEMPLATES & DOCUMENTATION
-- **bookdown-template** = bookdown-template to be cloned by RC
+
+Bookdown
+- **bookdown-template** = bookdown template to be cloned by RC
 - **bookdown-docs** = documentation for RC and TAs to be able to make a workshop using bookdown
+
+Jupyter Book
+- jupyterbook-template = jupyter book template to be cloned by RC
+- jupyterbook-docs = documentation for RC and TAs to make a workshop using jupyter book
 
 # TESTER WEBSITES
 
