@@ -4,7 +4,7 @@ I am not sure if there is a better way to put a clarification on the cbw-dev rep
 
 - **.github** = holds this README.md
 - **cbw-dev.github.io** = has the index.md file for the main website [https://cbw-dev.github.io/](https://cbw-dev.github.io/)
-- **demo-repository** = some sort of default repo I tihnk github made when we made the organization
+- **demo-repository** = some sort of default repo I think github made when we made the organization
 
 # TEMPLATES & DOCUMENTATION
 
