@@ -13,8 +13,8 @@ Bookdown
 - **bookdown-docs** = documentation for RC and TAs to be able to make a workshop using bookdown
 
 Jupyter Book
-- jupyterbook-template = jupyter book template to be cloned by RC
-- jupyterbook-docs = documentation for RC and TAs to make a workshop using jupyter book
+- **jupyterbook-template** = jupyter book template to be cloned by RC
+- **jupyterbook-docs** = documentation for RC and TAs to make a workshop using jupyter book
 
 # TESTER WEBSITES
 
