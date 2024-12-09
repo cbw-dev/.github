@@ -16,13 +16,18 @@ Jupyter Book
 - **jupyterbook-template** = jupyter book template to be cloned by RC
 - **jupyterbook-docs** = documentation for RC and TAs to make a workshop using jupyter book
 
+# Template / Docs Test Runs
+
+- **Nehatest** = test run of bookdown template/docs produced by Neha (RC) - Dec 2-3 2024
+- **mac-loaner-bookdown-test** = testing bookdown template/docs - Dec 9 2024
+
 # TESTER WEBSITES
 
 ## BOOKDOWN GITBOOK
 *Note: GitBook is it's own thing, this is bookdown's version/inspired by GitBook*
 
 - **INR-2024-Recreate** = Recreating INR 2024 workshop, in the Bookdown Gitbook template (90% done, see it's README.md for notes)
-- **bookdown-tes**t = Slightly edited (barely anything) standard bookdown gitbook template
+- **bookdown-tes**t = basic bookdown gitbook w/ test edits (mainly finagling callout blocks)
 - **fig-bkdn-test** = Unedited (I strongly think so) standard bookdown gitbook template (made to test a bug)
 - **bkd-gitbk-htmlbug** = Pretty much unedited standard bookdown gitbook template (made to test a bug)
 - **bookdown** = a copy of the "bookdown-demo", it is a bs4_book (which we probably will not use, mainly because gitbook looks nicer)
